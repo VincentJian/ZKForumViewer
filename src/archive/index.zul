@@ -1,4 +1,4 @@
-<?page title="ZK Forum viewer"?>
+<?page title="ZK Mail"?>
 <?taglib uri="http://www.zkoss.org/dsp/web/theme" prefix="t" ?>
 <zk>
 <style>
